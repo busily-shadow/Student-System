@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "213543965088",
+    "project_id": "student-management-syste-6a06e",
+    "storage_bucket": "student-management-syste-6a06e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213543965088:android:c06cab21c10bc1771d54c5",
+        "android_client_info": {
+          "package_name": "com.example.studentmanagementsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjANYOJId7b77Rm2tQMUrxeNlo-gDAllU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213543965088:android:e7cc37085928f2601d54c5",
+        "android_client_info": {
+          "package_name": "com.example.studentsystemapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjANYOJId7b77Rm2tQMUrxeNlo-gDAllU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213543965088:android:4096f0aaf52144a41d54c5",
+        "android_client_info": {
+          "package_name": "com.studentsystemapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjANYOJId7b77Rm2tQMUrxeNlo-gDAllU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
